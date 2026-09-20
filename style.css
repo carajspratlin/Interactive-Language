@@ -41,6 +41,23 @@ a {
     margin: 0px 0px 0px 150px
 }
 
+.tabs:hover {
+   color: #808e72
+}
+
+.workbutton {
+    color: #a8b898;
+    background-color: #FFF4E2;
+    padding: px;
+    font-size: 30px;
+    width: 400px;
+    height: 50px;
+    margin: 0px 0px 0px 150px
+}
+.workbutton:hover {
+    background-color: #808e72;
+}
+
 .cara {
     font-family: "rafaella", sans-serif;
     font-weight: 400;
@@ -91,6 +108,11 @@ a {
     text-align: center;
 }
 
+.linkedin {
+    max-width: 100px;
+    margin: 0% 50% 0% 50%;
+}
+
 .carebear:hover {
     cursor: pointer;
     background-color: yellow;
@@ -102,4 +124,22 @@ a {
 class-name{
     property-name-1: value1;
     property-name-2: value2;
+}
+
+.levlounge {
+    max-width: 40%;
+    max-height: auto;
+    margin: 0px 0px 0px 25%;
+}
+
+.channel{
+     max-width: 40%;
+    max-height: auto;
+    margin: 0px 0px 0px 25%;
+}
+
+.acts{
+     max-width: 40%;
+    max-height: auto;
+    margin: 0px 0px 0px 25%;
 }
