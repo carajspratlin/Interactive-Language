@@ -1,0 +1,105 @@
+.carebear {
+    color:rgb(255, 194, 231);
+    background-color: rgb(255, 0, 195);
+    font-size: 24px;
+    text-align: center;
+    width: 10.25rem;
+    height: 10.25rem;
+    overflow: hidden;
+    padding: 8px 16 px;
+    border-color: rgb(192, 255, 192);
+    margin: 32px;
+    font-family: "montecarlo MS", "montecarlo";
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "open sans";
+    background-color: #a8b898;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.graphicdesigner {
+    font-size: 40px;
+    color: #FFF4E2;
+    text-align: center;
+}
+
+.tabs {
+    color: #FFF4E2;
+    font-size: 40px;
+    text-align: left;
+    margin: 0px 0px 0px 150px
+}
+
+.cara {
+    font-family: "rafaella", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    color: #FFF4E2;
+    text-align: center;
+    margin: 0px
+}
+
+.me {
+    max-width: 50%;
+    max-height: auto;
+    margin: 0px 0px 0px 25%;
+}
+
+.designingintentionally {
+    color: #FFF4E2;
+    font-size: 50px;
+    text-align: center;
+}
+
+.quote {
+    color: #FFF4E2;
+    font-size: 20px;
+    text-align: center; 
+}
+
+.title {
+    color:#FFF4E2;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    margin: 0px 0px 0px 150px;
+}
+
+.text {
+    color:#FFF4E2;
+    font-size: 20px;
+    text-align: left;
+    margin: 0px 0px 0px 150px;
+    width: 90rem;
+}
+
+.footer{
+    color:#FFF4E2;
+    font-size: 16px;
+    text-align: center;
+}
+
+.carebear:hover {
+    cursor: pointer;
+    background-color: yellow;
+}
+.carebear:active {
+    cursor: pointer;
+    background-color: rgb(82, 168, 255);
+}
+class-name{
+    property-name-1: value1;
+    property-name-2: value2;
+}
